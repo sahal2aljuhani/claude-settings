@@ -14,6 +14,13 @@
       "sourceType": "github",
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "7bc223e2aafbdbf6e50ea243ba6ef67fe432bb069ab439fea0390795dac0bf7f"
+    },
+    "prompt-engineering-patterns": {
+      "source": "wshobson/agents",
+      "commit": "1eecf4b58eb380ff7ddc258a11c6586381d67b95",
+      "sourceType": "github",
+      "skillPath": "plugins/llm-application-dev/skills/prompt-engineering-patterns/SKILL.md",
+      "computedHash": "19df76da97709cf86875b769626a5c178ce20f9cc9e5e3bf96821518a736b38c"
     }
   }
 }
