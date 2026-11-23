@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "skills": {
+    "claude-md-improver": {
+      "source": "anthropics/claude-plugins-official",
+      "commit": "7b7a29e0458e3fd9417b0f46e403843b52958a83",
+      "sourceType": "github",
+      "skillPath": "plugins/claude-md-management/skills/claude-md-improver/SKILL.md",
+      "computedHash": "d6067bb87758243b6817ae021a0b72e409db8919cec22a4cdfc053cd5b269622"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "commit": "57217cf86ba38148a57af9e90d14a4c049558330",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "7bc223e2aafbdbf6e50ea243ba6ef67fe432bb069ab439fea0390795dac0bf7f"
+    }
+  }
+}
