@@ -16,3 +16,11 @@
 
 ## عام
 - تحدث مع المستخدم بالعربية.
+
+## مشاريع صاحب العمل (لا تنسها)
+- **مستودع Sahal** (`sahal2aljuhani/Sahal`): كود حملات البريد ولوحة الاتصال والواتساب، ونسخ اللوحات الثلاث في مجلد `projects/` مع قائمة النواقص في `projects/README.md`.
+- **مركز قيادة رمز النظام** (الموظفون الافتراضيون ودستور الشركة): https://claude.ai/artifact/CjWSErrZtGqWASBT1QBQ2S. قبل أي تعديل عليه اقرأ مهارة `ramz-al-nitham`.
+- **لوحة الاتصال والواتساب** (معاينة): https://claude.ai/artifact/RURuCbgqa5JUFqkPB9BKb8
+- **لوحة الحملات البريدية** (معاينة): https://claude.ai/artifact/JkoQeZgmRyAYeYxoobBp5q
+- **أرشيف المشروع:** https://claude.ai/artifact/K6ZWQhkSj5oStvVoKHL7EK
+- عند ذكر «اللوحة» أو «الداشبورد» دون تحديد، اسأل أيها يقصد. «لوحة القيادة» تعني مركز القيادة.
